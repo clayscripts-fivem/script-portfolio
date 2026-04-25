@@ -5,7 +5,7 @@ Welcome to the **ClayScripts Interactive Script Portfolio**. This repository ser
 This project is more than just a static website; it is a fully functional engineering sandbox that simulates the complex bridge between a game server (Lua) and a web frontend (JavaScript) directly in your browser.
 
 ## ✨ Live Demo
-🌐 **[View the Live Portfolio](https://clayscript.github.io/script-portfolio/)** *(Adjust domain if hosted under an Organization)*
+🌐 **[View the Live Portfolio](https://clayscripts-fivem.github.io/script-portfolio/)** *(Adjust domain if hosted under an Organization)*
 
 ---
 
